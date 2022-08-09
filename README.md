@@ -32,7 +32,7 @@ Vascular_disease_occurrence_with_weather_prediction_Model
 
 
 # 결과
-    ![image](https://user-images.githubusercontent.com/100951015/183677063-56c772d1-afa8-4c15-920f-bb6a4cbc39dc.png)
+    ![image](https://user-images.githubusercontent.com/100951015/183677185-fef46506-775c-4b6b-abfa-f1ad3d39a1d6.png)
 
 
 
