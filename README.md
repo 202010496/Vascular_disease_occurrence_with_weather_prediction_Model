@@ -31,6 +31,9 @@ Vascular_disease_occurrence_with_weather_prediction_Model
     ![image](https://user-images.githubusercontent.com/100951015/183670389-ba629654-ab8f-4826-92ac-b679679e54ec.png)
 
 
+# 결과
+    ![image](https://user-images.githubusercontent.com/100951015/183677063-56c772d1-afa8-4c15-920f-bb6a4cbc39dc.png)
+
 
 
 # 문제점 및 아쉬운 점
