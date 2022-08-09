@@ -40,7 +40,7 @@ Vascular_disease_occurrence_with_weather_prediction_Model
 2) XGboost {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators':20000,'subsample': 0.7}  
 3) LGMB (bagging_fraction=0.72, colsample_bytree=0.72, lambda_l1=0.1, lambda_l2=0.35, learning_rate=0.01, max_depth=7, min_data_in_leaf=8, num_iterations=20000, random_state=42, scale_pos_weight=1.5)
 
-- 마감 결과 (기준 오후 18시): 최종 13위
+- 마감 결과 (기준 오후 18시): 최종 13위 (총 31팀 참여)
 
 ![image](https://user-images.githubusercontent.com/100951015/183677185-fef46506-775c-4b6b-abfa-f1ad3d39a1d6.png)
 
