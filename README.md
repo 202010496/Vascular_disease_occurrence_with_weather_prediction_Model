@@ -1,6 +1,6 @@
 Vascular_disease_occurrence_with_weather_prediction_Model
-2022-2 project (2022_weather_contest)
-2022년 기상청 빅데이터 콘테스트 공모작
+/2022-2 project (2022_weather_contest)
+/2022년 기상청 빅데이터 콘테스트 공모작
 
 
 # 2차 과제 - 기상에 따른 혈관질환 발생 예측 모델 개발
