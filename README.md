@@ -32,6 +32,7 @@ Vascular_disease_occurrence_with_weather_prediction_Model
 
 
 # 결과
+- 마감 결과 (기준 오후 18시): 최종 13위
 
 ![image](https://user-images.githubusercontent.com/100951015/183677185-fef46506-775c-4b6b-abfa-f1ad3d39a1d6.png)
 
