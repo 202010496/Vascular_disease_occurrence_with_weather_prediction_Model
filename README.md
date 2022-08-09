@@ -18,7 +18,7 @@ Vascular_disease_occurrence_with_weather_prediction_Model
 - 활용 모델: 3가지 앙상블 (GradientBoosting, LightGBM, XGBoost Regression)
 ---> total_weight = (1. / gb_score) + (1. / xgb_score) + (1. / lgb_score)
      real_pred = (pred_gb * (1. / gb_score) + pred_xgb * (1. / xgb_score) + pred_lgb * (1. / lgb_score)) / total_weight
-     ![image](https://user-images.githubusercontent.com/100951015/183676251-a67e25b1-3a04-4d25-8564-925a48b130ee.png)
+     ![image](https://user-images.githubusercontent.com/100951015/183676429-4481b5a7-4ae8-451c-808e-9e5909642ffb.png)
 
      
 - 검증 방법: RMSE (모델 정확도, 실제 검증값 대비 정확도)
